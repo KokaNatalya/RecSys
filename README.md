@@ -1,4 +1,4 @@
 # RecSys
 
-модель написана на основе данных Kion, для соревнования RecSys Course Competition от МТС на Open Data Science.
-выполнена с помощью нейронной сети
+Модель написана на основе данных Kion, для соревнования RecSys Course Competition от МТС на Open Data Science.
+Выполнена с помощью нейронной сети
